@@ -1,2 +1,2 @@
-# Fabulous-Kup-Esboo
+# Fabulous-Kup-Esboo-task1
 سويت دائرة كهربائية واهم شي اني قدرت اشغلها كاملة
